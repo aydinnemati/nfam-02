@@ -1,0 +1,17 @@
+{
+  "name": "nfam-02",
+  "version": "1.0.0",
+  "description": "node.js-mongoose-fastify-api",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.32.0",
+    "fastify": "^3.21.6",
+    "prettier": "^2.4.1"
+  }
+}
